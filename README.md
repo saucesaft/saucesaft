@@ -1,4 +1,4 @@
-## Hey there! 👋
+## Hola! 👋
 
 I'm Eduardo, a robotics engineering student at ITESM with a passion for building things that work in the real world.
 
