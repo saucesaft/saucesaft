@@ -3,8 +3,10 @@
 I'm Eduardo, a robotics engineering student at ITESM with a passion for building things that work in the real world.
 
 ### What I'm up to
+- Differential Policies & Reinforcement Learning. When I'm not designing PCBs or writing embedded code, you'll find me exploring the intersection of hardware and AI and tinkering with autonomous vehicles at [VantTec](https://github.com/vanttec).
 
-Currently doing research at the Joint Robotics Laboratory (JRL) in Japan, working on tactile sensing systems for humanoid robots. When I'm not designing PCBs or writing embedded code, you'll find me exploring the intersection of hardware and AI and tinkering with autonomous vehicles at [VantTec](https://github.com/vanttec).
+### In the past...
+- Research at the Joint Robotics Laboratory (JRL) in Japan, working on tactile sensing systems for humanoid robots and reinforcement learning
 
 ### Things I enjoy working on
 
@@ -22,7 +24,7 @@ I'm deep into tactile sensing research, building custom hardware for robot teleo
 - 📧 eduarch42@protonmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardohdz42)
 - ✨ [Portfolio](https://haironthecircuits.net)
-- 🌍 Based in Mexico, currently in Japan
+- 🌍 Based in Mexico
 
 ---
 
