@@ -1,31 +1,23 @@
 ## Hola! 👋
 
-I'm Eduardo, a robotics engineering student at ITESM with a passion for building things that work in the real world.
+I'm Eduardo, a robotics engineering student at ITESM (Mexico) working on **humanoid robots, physics simulation and learning**.
 
 ### What I'm up to
-- Differential Policies & Reinforcement Learning. When I'm not designing PCBs or writing embedded code, you'll find me exploring the intersection of hardware and AI and tinkering with autonomous vehicles at [VantTec](https://github.com/vanttec).
+- 🇫🇷 Upcoming research intern at **Willow (Inria Paris / ENS)** with Justin Carpentier, starting Nov 2026
+- 🤖 **Physics-aware motion retargeting** for humanoids (Unitree G1): turning human motion (mocap, phone video) into references a robot can actually execute, checking dynamics and inferring contacts along the way
+- 🧮 **Differentiable simulation** for control and RL (MuJoCo / MJX, JAX)
+- 🦿 Running retargeted motions on a real G1, from simulation to hardware
 
 ### In the past...
-- Research at the Joint Robotics Laboratory (JRL) in Japan, working on tactile sensing systems for humanoid robots and reinforcement learning
+- 🇯🇵 Research intern at the **CNRS-AIST Joint Robotics Laboratory (JRL)**, Tsukuba: tactile sensing for humanoid robots and reinforcement learning
+- 🚤 Vice-president of [VantTec](https://github.com/vanttec), leading a team of undergrad engineers building autonomous vehicles (PCBs, embedded systems, autonomy)
 
-### Things I enjoy working on
-
-- **Machine learning**: Especially when it runs on edge devices or when we can simulate reality for robot learning
-- **Hardware meets software**: From PCB design to embedded programming, I love making electrons do useful things
-- **Computer vision**: Teaching machines to see and understand their environment
-- **Autonomous systems**: Self-driving cars, boats, and robots that can navigate the world
-
-### Current focus
-
-I'm deep into tactile sensing research, building custom hardware for robot teleoperation. Also working on flow-based models for trajectory generation and leading perception systems for autonomous vehicles.
+### Other interests:
+- PCB/Electronics and embedded programming
+- Electronic music production
 
 ### Get in touch
-
 - 📧 eduarch42@protonmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardohdz42)
 - ✨ [Portfolio](https://haironthecircuits.net)
-- 🌍 Based in Mexico
-
----
-
-*Building the future, one commit at a time* ⚡
+- 🌍 Mexico → Paris (Nov 2026)
